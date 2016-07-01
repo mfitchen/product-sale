@@ -9,7 +9,7 @@
 _This is an Epicodus student solo project creating a web page that uses CSS and HTML exclusively to style and manipulate the web page for a product being sold. See spec below:_
 
 Project Requirements & Objectives  | Complete
-------------- | ------------- |
+:------------- | ------------- |
 *Required*: At least one centered element. |
 *Required*: A list or summary of features. |
 *Required*: At least one large image with an **absolutely** positioned caption. |
