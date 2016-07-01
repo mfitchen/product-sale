@@ -82,8 +82,21 @@ label {
   letter-spacing: 3px;
 }
 
-input {
+input, select {
   height: 23px;
+}
+
+select {
+  padding: 3px;
+  margin-top: 3px;
+  margin-bottom: 10px;
+  background: #f8f8f8;
+  color: #a9a9a9;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0px;
+  border: none;
+  outline: none;
+  display: block;
 }
 
 table {
@@ -200,7 +213,7 @@ table {
 
 .style-form {
   width: 330px;
-  height: 310px;
+  height: 360px;
   background-color: #999999;
   border: 1px solid #ffffff;
   padding: 10px;
@@ -249,6 +262,18 @@ table {
   margin-left: 10px;
 }
 
+.style-width1 {
+  width: 220px;
+}
+
+.style-width2 {
+  width: 66px;
+}
+
+#item-size-input {
+  margin-left: 10px;
+}
+
 input#address3 {
   width: 29px;
 }
@@ -274,6 +299,10 @@ input#address2 {
   margin: 3px 0;
 }
 
+#items-input, #item-size-input {
+  display: inline-block;
+}
+
 #first-name-input, #last-name-input {
   display: inline-block;
 }
@@ -285,4 +314,8 @@ input#address2 {
 
 #email-input, #address-input {
   margin-top: 10px;
+}
+
+li::after {
+  content: url("../img/icon-add-to-cart.png");
 }
