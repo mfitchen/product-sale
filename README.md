@@ -13,13 +13,13 @@ Project Requirements & Objectives  | Complete
 *Required*: At least one centered element. | X
 *Required*: A list or summary of features. | X
 *Required*: At least one large image with an **absolutely** positioned caption. | X
-*Required*: At least one table or form field styled with CSS. |
+*Required*: At least one table or form field styled with CSS. | X
 *Required*: A gallery of smaller images. | X
-*Objective*: Incorporates all required elements (see above). |
+*Objective*: Incorporates all required elements (see above). | X
 *Objective*: Use of at least one pseudo class and one pseudo element. |
 *Objective*: Use of at least 3 different types of selectors. |
 *Objective*: Appropriate elements are positioned using **absolute** & **relative** positioning. |
-*Objective*: Gallery images make use of the **float** property. |
+*Objective*: Gallery images make use of the **float** property. | X
 *Objective*: Elements use **box**-**sizing**: **border**-**box**;. |
 
 ## Setup/Installation Requirements
