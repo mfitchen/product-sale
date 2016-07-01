@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #edeff0;
+  background-color: #ffffff;
   font-family: "Helvetica Neue", Helvetica, sans-serif;
   margin-top: 0;
   margin-left: 0;
@@ -44,9 +44,31 @@ button {
   letter-spacing: 3px;
 }
 
+h2 {
+  color: #1d4079;
+  font-weight: lighter;
+  letter-spacing: 3px;
+  text-align: center;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid tomato;
+  margin: 1em 2em;
+  padding: 0;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
+}
+
+li {
+  color: #898989;
+  list-style: none;
+  margin-bottom: 3px;
 }
 
 .top-bar {
@@ -64,6 +86,7 @@ table {
 .product {
   width: 100%;
   position: relative;
+  margin-bottom: 20px;
 }
 
 .north-west {
@@ -102,12 +125,32 @@ table {
   height: 20px;
 }
 
+.usa-map-flag-small {
+  height: 10px;
+  margin-right: 8px;
+}
+
 .button {
   position: absolute;
   text-align: center;
   top: 300px;
   left: 145px;
   z-index: 100;
+}
+
+.related-products-text, .related-products-t-shirt1, .related-products-t-shirt2, .related-products-t-shirt3 {
+  width: 300px;
+  position: relative;
+}
+
+.related-products-text {
+  height: 300px;
+  vertical-align: middle;
+  /*text-align: center;*/
+}
+
+.related-products, .related-products-text, .t-shirts {
+  float: left;
 }
 
 .classes  {

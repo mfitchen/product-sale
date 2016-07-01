@@ -11,10 +11,10 @@ _This is an Epicodus student solo project creating a web page that uses CSS and 
 Project Requirements & Objectives  | Complete
 :------------- | :-------------: |
 *Required*: At least one centered element. | X
-*Required*: A list or summary of features. |
+*Required*: A list or summary of features. | X
 *Required*: At least one large image with an **absolutely** positioned caption. | X
 *Required*: At least one table or form field styled with CSS. |
-*Required*: A gallery of smaller images. |
+*Required*: A gallery of smaller images. | X
 *Objective*: Incorporates all required elements (see above). |
 *Objective*: Use of at least one pseudo class and one pseudo element. |
 *Objective*: Use of at least 3 different types of selectors. |
