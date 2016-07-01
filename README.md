@@ -16,7 +16,7 @@ Project Requirements & Objectives  | Complete
 *Required*: At least one table or form field styled with CSS. | X
 *Required*: A gallery of smaller images. | X
 *Objective*: Incorporates all required elements (see above). | X
-*Objective*: Use of at least one pseudo class and one pseudo element. |
+*Objective*: Use of at least one pseudo class and one pseudo element. | X
 *Objective*: Use of at least 3 different types of selectors. | X
 *Objective*: Appropriate elements are positioned using **absolute** & **relative** positioning. | X
 *Objective*: Gallery images make use of the **float** property. | X

@@ -319,3 +319,40 @@ input#address2 {
 li::after {
   content: url("../img/icon-add-to-cart.png");
 }
+
+table tr th:first-child {
+  text-align: left;
+}
+
+th {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color:  rgba(29, 64, 121, 0.98);
+  color: #ffffff;
+  font-weight: lighter;
+}
+
+td {
+  text-align: center;
+}
+
+tr {
+  height: 36px;
+  border: 1px solid #1d4079;
+  padding: 5px;
+}
+
+tr:nth-child(odd) {
+  background-color: rgba(255, 0, 0, 0.65);
+}
+
+.order-form, #div-table {
+  display: inline-block;
+}
+
+#div-table {
+  width: 780px;
+  float: right;
+  margin-right: 25px;
+  margin-top: 20px;
+}
