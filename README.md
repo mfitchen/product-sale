@@ -27,7 +27,7 @@ Project Requirements & Objectives  | Complete
 * _Establish an internet connection_
 * _Open a web browser_
 * _Visit web page_
-* _Check out the product sale
+* _Check out the product sale_
 
 ## Known Bugs
 
